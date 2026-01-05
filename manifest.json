@@ -8,7 +8,7 @@
             "filename": "Taste_The_Fruit.mp3",
             "nfc_tag": "0001",
             "date_added": "2026-01-05",
-            "checksum": "sha256:859C13F547E9A4001B8AA8D362407C66D8A9192923713657E135E5E8AA999396"
+            "checksum": "sha256:859c13f547e9a4001b8aa8d362407c66d8a9192923713657e135e5e8aa999396"
         },
         {
             "id": "library_lion",
@@ -16,7 +16,7 @@
             "filename": "Library_Lion.mp3",
             "nfc_tag": "0002",
             "date_added": "2026-01-01",
-            "checksum": "sha256:6057EAC34B051534A759B1E0FBC61A57200189406423E0054C434FF365366C1A"
+            "checksum": "sha256:6057eac34b051534a759b1e0fbc61a57200189406423e0054c434ff365366c1a"
         }
     ]
 }
