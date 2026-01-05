@@ -1,6 +1,8 @@
 [
   {
     "title": "Taste the Fruit",
-    "file": "https://liebowa.github.io/BookReader_content/audio/Taste_The_Fruit.mp3"
+    "http_file": "https://liebowa.github.io/BookReader_content/audio/Taste_The_Fruit.mp3",
+    "filename": "Taste_The_Fruit.mp3",
+    "nfc_tag": "0001"
   }
 ]
