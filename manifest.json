@@ -1,14 +1,22 @@
-[
-  {
-    "title": "Taste the Fruit",
-    "http_file": "https://liebowa.github.io/BookReader_content/audio/Taste_The_Fruit.mp3",
-    "filename": "Taste_The_Fruit.mp3",
-    "nfc_tag": "0001"
-  }
-  {
-    "title": "Library Lion",
-    "http_file": "https://liebowa.github.io/BookReader_content/audio/Library_Lion.mp3",
-    "filename": "Library_Lion.mp3",
-    "nfc_tag": "0002"
-  }
-]
+{
+    "manifest_version": 1,
+    "content_base_url": "https://liebowa.github.io/BookReader_content/audio",
+    "books": [
+        {
+            "id": "taste_the_fruit",
+            "title": "Taste the Fruit",
+            "filename": "Taste_The_Fruit.mp3",
+            "nfc_tag": "0001",
+            "date_added": "2026-01-05",
+            "checksum": "sha256:859C13F547E9A4001B8AA8D362407C66D8A9192923713657E135E5E8AA999396"
+        },
+        {
+            "id": "library_lion",
+            "title": "Library Lion",
+            "filename": "Library_Lion.mp3",
+            "nfc_tag": "0002",
+            "date_added": "2026-01-01",
+            "checksum": "sha256:6057EAC34B051534A759B1E0FBC61A57200189406423E0054C434FF365366C1A"
+        }
+    ]
+}
